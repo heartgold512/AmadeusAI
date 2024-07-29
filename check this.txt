@@ -1,0 +1,7 @@
+add an ip checker and make Kurisu warn about using a different ip etc
+make some more advanced form implementations
+
+screen so can open and trnasition between 24 png's
+the plan is to construct a logger history that passes all the Csv chat into a History file, for now this will only compose Of Amadeus's Messages, attached is an image of the style
+after we have completed this eventually we will have a user chat interface oriented approach. the user interacts with the main xaml window opening a message prompt which expand when written to, these messages will also show up. If you looked at 
+the image you will know the style, this may take a lot of time, though rest assured i know you will be able to do it.

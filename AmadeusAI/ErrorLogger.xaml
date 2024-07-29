@@ -1,0 +1,26 @@
+﻿<Window x:Class="AmadeusAI.ErrorLogger"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:AmadeusAI"
+        Title="ErrorLogger"  Height="300" Width="500"
+        Background="Black" 
+        ResizeMode="NoResize">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="243*"/>
+        </Grid.RowDefinitions>
+        <ItemsControl ItemsSource="{Binding LogMessages}" Grid.RowSpan="2">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding LogTime}" />
+                        <Run Text=" " />
+                        <Run Text="{Binding Message}" />
+                    </TextBlock>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</Window>

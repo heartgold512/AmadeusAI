@@ -1,0 +1,91 @@
+﻿<Window x:Class="AmadeusAI.ChatLog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:local="clr-namespace:AmadeusAI"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="@Chan" Height="768" Width="1366"
+        ResizeMode="NoResize"
+        SizeToContent="Manual">
+    <ScrollViewer x:Name="MyScrollViewer" VerticalScrollBarVisibility="Auto"  CanContentScroll="True"  >
+
+        <Grid Background="#60CCFF">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="73*"/>
+                <RowDefinition Height="691*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="117*"/>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="0*"/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Path x:Name="messages" Fill="black" Stroke="Black" Stretch="Fill" Margin="-1,16,30,-46">
+                    <Path.Data>
+                        <PathGeometry>
+                            <PathFigure StartPoint="0,0">
+                                <LineSegment Point="1,0"/>
+                                <ArcSegment Point="1,1" Size="1,5" IsLargeArc="False" SweepDirection="Clockwise"/>
+                                <LineSegment Point="0,1"/>
+                            </PathFigure>
+                        </PathGeometry>
+                    </Path.Data>
+                </Path>
+
+                <!--thread title goes here ish in terms of position-->
+
+                <!-- Outer rectangle with rounded corners -->
+                <TextBox x:Name="MessageBoxo" Background="#9999" BorderBrush="Black" Margin="0,48,69,-22" Height="60" />
+                <TextBox Text="Num" Foreground="#3499bf" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Height="46" Width="80" Margin="34,0,0,0" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+                <TextBox Text="{Binding Source={x:Static local:AmadeusAISettings.Default}, Path=BotName, FallbackValue=Bot_Name}" Foreground="#3499bf" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Height="44" Width="190" Margin="184,0,0,0" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+
+                <TextBox Text="Timestamp" Foreground="#3499bf" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Height="44" Width="110" Margin="674,0,0,0" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+                <TextBox Text="ID: " Foreground="#3499bf" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Left" Height="35" Width="80" Margin="1084,0,0,0" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+
+
+            </Grid>
+            <!-- TextBoxes and Path -->
+            <Grid>
+
+                <TextBox Text="Num" Foreground="#3499bf" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" Height="45" Width="80" Margin="0,0,1200,-288" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+                <TextBox Text="{Binding Source={x:Static local:AmadeusAISettings.Default}, Path=UserName, FallbackValue=DefaultUserName}" Foreground="#3499bf" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" Height="45" Width="80" Margin="0,0,900,-288" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+
+                <TextBox Text="Timestamp" Foreground="#3499bf" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" Height="40" Width="110" Margin="0,0,-100,-285" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+                <TextBox Text="ID: " Foreground="#3499bf" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Center" Height="45" Width="80" Margin="0,0,-900,-300" Panel.ZIndex="1" Background="Transparent" BorderBrush="Transparent"/>
+                <!-- ... (Your existing TextBoxes and Path) ... -->
+                <!-- Inner rectangle -->
+                <Path x:Name="messageprimePath" Fill="black" Stroke="Black" Stretch="Fill" Margin="-1,156,30,-186">
+                    <Path.Data>
+                        <PathGeometry>
+                            <PathFigure StartPoint="0,0">
+                                <LineSegment Point="1,0"/>
+                                <ArcSegment Point="1,1" Size="1,5" IsLargeArc="False" SweepDirection="Clockwise"/>
+                                <LineSegment Point="0,1"/>
+                            </PathFigure>
+                        </PathGeometry>
+                    </Path.Data>
+                </Path>
+
+                <!--thread title goes here ish in terms of position-->
+
+                <!-- Outer rectangle with rounded corners -->
+                <Rectangle x:Name="Rectangle" Fill="#9999" Stroke="Black" Margin="0,192,69,-166" Height="60" />
+                <TextBlock x:Name="ChatTextBlock" Text="" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,192,67,-166" Height="60" Width="900" Panel.ZIndex="5" FontFamily ="{Binding Source={x:Static local:AmadeusAISettings.Default}, Path=FontFamily}"/>
+            </Grid>
+
+            <!-- Scrollable content -->
+            <ItemsControl Name="PostList" Grid.Column="0" Grid.Row="1" Margin="0,0,10,0" Height="840">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Background="#D3D3D3" Margin="5">
+                            <StackPanel>
+
+                                <TextBlock Text="{Binding UserName}" Foreground="Black" FontWeight="Bold" Margin="5"/>
+                                <TextBlock Text="{Binding Message}" Foreground="Black" Margin="5"/>
+                                <TextBlock Text="{Binding TimeStamp}" Foreground="Gray" HorizontalAlignment="Right" Margin="5"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Grid>
+    </ScrollViewer>
+</Window>

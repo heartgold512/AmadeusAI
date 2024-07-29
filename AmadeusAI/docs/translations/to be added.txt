@@ -1,0 +1,8 @@
+need translators or eventually get round to doing it myself
+ie 
+folder Russian
+structure as AmadeusAI Russian - Applications.csv
+for google search etc bottom half
+google_Russian.csv
+thx :0
+mimic for other langs too

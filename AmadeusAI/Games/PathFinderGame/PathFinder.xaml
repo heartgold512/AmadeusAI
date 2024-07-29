@@ -1,0 +1,16 @@
+<Window x:Class="AmadeusAI.PathFinder"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:AmadeusAI"
+        Title="Mini Game 002"  Height="300" Width="500"
+        Background="Black" BorderBrush="orange"
+        ResizeMode="NoResize">
+    <Grid RenderTransformOrigin="0.571,0.577">
+        <Image x:Name="messageboximg" Source="\AmadeusAI;component\gui\messageboximg.png"/>
+        <Rectangle x:Name ="Player"  Stroke="Green" Margin="26,109,424,132" />
+        <Rectangle x:Name ="CERN_member1" Stroke="Red" Margin="374,113,100,142"/>
+        <Rectangle x:Name ="CERN_member2" Stroke="Red" Margin="374,191,100,64"/>
+        <Rectangle x:Name ="CERN_member3" Stroke="Red" Margin="374,20,100,235"/>
+        <!-- This will eventually be organised as classes for levels and manually dropped in-->
+    </Grid>
+</Window>

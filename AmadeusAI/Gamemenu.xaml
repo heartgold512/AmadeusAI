@@ -1,0 +1,55 @@
+﻿<Window x:Class="AmadeusAI.Gamemenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Game Menu"  Height="300" Width="500"
+        Background="Black" BorderBrush="orange"
+        ResizeMode="NoResize">
+    <Grid Margin="2,-16,-2,0">
+        <Button  x:Name="Bt_Cancel"  Margin="0,241,382,0"  Background="Black" Click="Bt_Cancel_Click"  BorderThickness="0">
+            <Image Source="/gui/small Btns/cancel_select.png" Height="82" Width="108"   />
+        </Button>
+        <Button x:Name="Bt1" Margin="250,93,200,142" Background="Black" Click="Bt1_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn1.png" Height="34" Width="33" RenderTransformOrigin="0.749,0.5" />
+        </Button>
+
+        <Button x:Name="Bt2" Margin="321,93,134,142" Background="Black" Click="Bt2_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn2.png" Height="34" Width="33" />
+        </Button>
+
+        <Button x:Name="Bt3" Margin="388,93,62,142" Background="Black" Click="Bt3_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn3.png" Height="34" Width="33" />
+        </Button>
+
+        <Button x:Name="Bt4" Margin="250,155,200,82" Background="Black" Click="Bt4_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn4.png" Height="34" Width="33" />
+        </Button>
+
+        <Button x:Name="Bt5" Margin="321,155,134,82" Background="Black" Click="Bt5_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn5.png" Height="34" Width="33" />
+        </Button>
+
+        <Button x:Name="Bt6" Margin="388,155,62,82" Background="Black" Click="Bt6_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn6.png" Height="34" Width="33" />
+        </Button>
+
+        <Button x:Name="Bt7" Margin="250,216,200,27" Background="Black" Click="Bt7_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn7.png" Height="34" Width="33" />
+        </Button>
+
+        <Button x:Name="Bt8" Margin="321,216,134,27" Background="Black" Click="Bt8_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn8.png" Height="34" Width="33" />
+        </Button>
+
+        <Button x:Name="Bt9" Margin="388,216,62,27" Background="Black" Click="Bt9_Click" BorderThickness="0">
+            <Image Source="/gui/CRT/nn9.png" Height="34" Width="33" />
+        </Button>
+        <Image x:Name="Hour1" Margin="2,45,446,233"/>
+        <Image x:Name="Hour2" Margin="41,45,407,233"/>
+        <Image x:Name="Minute1" Margin="165,45,283,233"/>
+        <Image x:Name="Minute2" Margin="114,45,334,233"/>
+        <Image x:Name="Dot" Source="/gui/CRT/nn.png" Margin="79,45,369,233"/>
+
+    </Grid>
+
+
+</Window>

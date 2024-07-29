@@ -1,0 +1,28 @@
+﻿<Window x:Class="AmadeusAI.Dir"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:AmadeusAI"
+        Title="Amadeus"  Height="300" Width="500"
+        Background="Black" BorderBrush="orange"
+        ResizeMode="NoResize">
+
+    <Grid RenderTransformOrigin="0.571,0.577">
+        <Image x:Name="messageboximg" Source="\AmadeusAI;component\gui\messageboximg.png"/>
+        <Button x:Name="buttonyes" Content="Set to Program's Default" HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Margin="328,232,0,0" IsDefault="True" Click="buttonyes_Click" Height="24" Background = "orange" FontFamily="{Binding Source={x:Static local:AmadeusAISettings.Default}, Path=FontFamily}"/>
+        <Button x:Name="selector" Content="Select Path for Directory" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Margin="10,232,0,0" IsDefault="True" Click="buttonselector_Click" Height="24" RenderTransformOrigin="0.5,0.5" FontFamily="{Binding Source={x:Static local:AmadeusAISettings.Default}, Path=FontFamily}" Background = "orange">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.806"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock Name="MessageTextBlock" HorizontalAlignment="Left" VerticalAlignment="Top"
+                   Foreground="Gold" FontSize="10" Width="468" Margin="22,10,0,0" TextWrapping="Wrap"/>
+        <!-- need to wrap text since goes offscreen for some reason -->
+        <Border BorderBrush="orange" BorderThickness="2.5"/>
+    </Grid>
+</Window>
+

@@ -1,0 +1,2005 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Amadeus-working\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\popupcall.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\popupcall.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\parsers\\csvparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\parsers\\csvparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\parsers\\intelligenceparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\parsers\\intelligenceparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\parsers\\models\\amaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\parsers\\models\\amaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\parsers\\models\\tanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\parsers\\models\\tanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\popupcall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\popupcall.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\playlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\playlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\musichub.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\musichub.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\message.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\message.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\fontselector.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\fontselector.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\errorlogger.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\errorlogger.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\dir.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\dir.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\chatlog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\chatlog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gamemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gamemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|c:\\amadeus-working\\amadeusai\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\updateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\updateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\trayicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\trayicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\crash.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\crash.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\chatbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\chatbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|c:\\amadeus-working\\amadeusai\\scanner\\ipscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\scanner\\ipscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\scanner\\vpnscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\scanner\\vpnscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\nice_pic.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\nice_pic.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\textbox.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\textbox.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\messageboximg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\messageboximg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\styles\\playliststyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\styles\\playliststyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\styles\\custommessage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\styles\\custommessage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeusaisettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeusaisettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeusaisettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeusaisettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrissettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrissettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrissettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrissettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisama.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisama.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\highscore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\highscore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\commands\\cmd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\commands\\cmd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\applicationtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\applicationtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\httprestserver\\urlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\httprestserver\\urlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\httprestserver\\upgrademe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\httprestserver\\upgrademe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\commands\\cmd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\commands\\cmd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\playlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\playlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\musichub.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\musichub.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\games\\pathfindergame\\pathfinder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\games\\pathfindergame\\pathfinder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\games\\pathfindergame\\pathfinder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\games\\pathfindergame\\pathfinder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\telegramsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\telegramsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\telegramsettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\telegramsettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\crt\\nn0.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\crt\\nn0.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\notif\\logo39.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\notif\\logo39.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\message.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\message.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\backgrounds\\first-ever-website-example.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\backgrounds\\first-ever-website-example.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\backgrounds\\playlistbckg1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\backgrounds\\playlistbckg1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\commands\\screenmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\commands\\screenmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\dir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\dir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\fontselector.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\fontselector.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\battery80.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\battery80.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\batteryno.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\batteryno.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\cancel_select.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\cancel_select.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\battery40.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\battery40.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\battery10.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\battery10.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\battery20.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\battery20.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\crt\\topbar.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\crt\\topbar.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\crt\\arrow.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\crt\\arrow.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\crt\\nnnone.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\crt\\nnnone.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\buttons\\xp2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\buttons\\xp2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\buttons\\connect_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\buttons\\connect_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\xp2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\xp2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\ok.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\ok.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gamemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gamemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\chatbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\chatbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\crt\\nixie_base.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\crt\\nixie_base.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\fonts\\ethnocentric rg.otf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\fonts\\ethnocentric rg.otf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\fonts\\stjldbl2.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\fonts\\stjldbl2.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\fonts\\strjmono.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\fonts\\strjmono.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\buttons\\connect_select.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\buttons\\connect_select.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\buttons\\cancel_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\buttons\\cancel_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\chatlog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\chatlog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\commands\\perfmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\commands\\perfmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\connect_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\connect_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisama.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisama.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gamemenu.xaml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gamemenu.xaml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\small btns\\cancel_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\small btns\\cancel_unselect.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\crt\\nn4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\crt\\nn4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\gui\\crt\\nn.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\gui\\crt\\nn.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisgui\\block-i.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisgui\\block-i.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisgui\\block-s.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisgui\\block-s.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisgui\\block-o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisgui\\block-o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisgui\\block-l.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisgui\\block-l.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisgui\\block-j.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisgui\\block-j.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\highscore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\highscore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\webbrowserbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\webbrowserbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\instancelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\instancelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\applicationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\applicationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\idlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\idlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\behaviours\\ibehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\behaviours\\ibehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\errorlogger.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\errorlogger.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bradley\\Desktop\\Amadeus-Version 1.014\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisgui\\1-grid.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisgui\\1-grid.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeus\\1-nnobckg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeus\\1-nnobckg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeus\\a.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeus\\a.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeus\\a-n.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeus\\a-n.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeus\\1a.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeus\\1a.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeus\\1a-n.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeus\\1a-n.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeus\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeus\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\amadeus\\1-n.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\amadeus\\1-n.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|C:\\Amadeus-working\\amadeusai\\tetris\\tetrisgui\\tetris.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73089A1E-2F09-4E36-9C34-0BF2682A066E}|AmadeusAI\\AmadeusAI.csproj|solutionrelative:amadeusai\\tetris\\tetrisgui\\tetris.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Amadeus-working\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AmadeusAI\\obj\\Debug\\SettingsWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Amadeus-working\\AmadeusAI\\gui\\tetris.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AmadeusAI\\gui\\tetris.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bradley\\Desktop\\Beta\u0027s\\Amadeus-Version 1.012wvpnscanner\\AmadeusAI\\Tetris\\tetris.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 101,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:593712326:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:576684068:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicHub.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\MusicHub.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\MusicHub.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\MusicHub.xaml",
+              "RelativeToolTip": "AmadeusAI\\MusicHub.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-28T18:12:05.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Playlist.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Playlist.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Playlist.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Playlist.xaml",
+              "RelativeToolTip": "AmadeusAI\\Playlist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-28T17:35:25.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Popupcall.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Popupcall.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Popupcall.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Popupcall.xaml",
+              "RelativeToolTip": "AmadeusAI\\Popupcall.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:28:27.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TanResponse.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\Models\\TanResponse.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Parsers\\Models\\TanResponse.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\Models\\TanResponse.cs",
+              "RelativeToolTip": "AmadeusAI\\Parsers\\Models\\TanResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T20:08:52.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Amaresponse.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\Models\\Amaresponse.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Parsers\\Models\\Amaresponse.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\Models\\Amaresponse.cs",
+              "RelativeToolTip": "AmadeusAI\\Parsers\\Models\\Amaresponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T18:29:23.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntelligenceParser.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\IntelligenceParser.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Parsers\\IntelligenceParser.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\IntelligenceParser.cs",
+              "RelativeToolTip": "AmadeusAI\\Parsers\\IntelligenceParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:34:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVParse.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\CSVParse.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Parsers\\CSVParse.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Parsers\\CSVParse.cs",
+              "RelativeToolTip": "AmadeusAI\\Parsers\\CSVParse.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAOIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:33:26.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Popupcall.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Popupcall.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Popupcall.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Popupcall.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Popupcall.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:29:10.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Message.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Message.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Message.xaml",
+              "RelativeToolTip": "AmadeusAI\\Message.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-26T18:29:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\MainWindow.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\MainWindow.xaml",
+              "RelativeToolTip": "AmadeusAI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-27T11:38:21.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FontSelector.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\FontSelector.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\FontSelector.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\FontSelector.xaml",
+              "RelativeToolTip": "AmadeusAI\\FontSelector.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-27T11:52:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\ExtensionMethods.cs",
+              "RelativeToolTip": "AmadeusAI\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:35:51.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Expression.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Expression.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Expression.cs",
+              "RelativeToolTip": "AmadeusAI\\Expression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:35:47.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorLogger.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\ErrorLogger.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\ErrorLogger.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\ErrorLogger.xaml",
+              "RelativeToolTip": "AmadeusAI\\ErrorLogger.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-29T19:44:26.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dir.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Dir.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Dir.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Dir.xaml",
+              "RelativeToolTip": "AmadeusAI\\Dir.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-26T19:20:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatLog.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\ChatLog.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\ChatLog.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\ChatLog.xaml",
+              "RelativeToolTip": "AmadeusAI\\ChatLog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-27T12:53:30.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\conversion.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\conversion.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\conversion.cs",
+              "RelativeToolTip": "AmadeusAI\\conversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:34:44.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\App.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\App.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\App.xaml",
+              "RelativeToolTip": "AmadeusAI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-27T11:42:53.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Gamemenu.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Gamemenu.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Gamemenu.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Gamemenu.xaml",
+              "RelativeToolTip": "AmadeusAI\\Gamemenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-25T20:37:17.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\packages.config",
+              "RelativeDocumentMoniker": "AmadeusAI\\packages.config",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\packages.config",
+              "RelativeToolTip": "AmadeusAI\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-09T10:49:27.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:26:06.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Updater.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Updater.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Updater.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Updater.cs",
+              "RelativeToolTip": "AmadeusAI\\Updater.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwBUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T18:05:32.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateConfig.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\UpdateConfig.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\UpdateConfig.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\UpdateConfig.cs",
+              "RelativeToolTip": "AmadeusAI\\UpdateConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T18:11:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Trayicon.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Trayicon.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Trayicon.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Trayicon.cs",
+              "RelativeToolTip": "AmadeusAI\\Trayicon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T13:15:46.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAAN4BAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T13:14:49.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\SettingsWindow.xaml",
+              "RelativeToolTip": "AmadeusAI\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-27T13:14:46.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TetQueue.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\TetQueue.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\TetQueue.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\TetQueue.cs",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\TetQueue.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T16:03:50.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Vpnscan.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Scanner\\Vpnscan.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Scanner\\Vpnscan.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Scanner\\Vpnscan.cs",
+              "RelativeToolTip": "AmadeusAI\\Scanner\\Vpnscan.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwE0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T19:50:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "SettingsWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.i.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\obj\\Debug\\SettingsWindow.g.i.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.i.cs",
+              "RelativeToolTip": "AmadeusAI\\obj\\Debug\\SettingsWindow.g.i.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T22:37:07.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeToolTip": "..\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T14:54:15.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "RuntimeType.cs",
+              "DocumentMoniker": "C:\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs",
+              "ToolTip": "C:\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs",
+              "RelativeToolTip": "..\\Users\\Bradley\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:08:53.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IpScanner.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Scanner\\IpScanner.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Scanner\\IpScanner.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Scanner\\IpScanner.cs",
+              "RelativeToolTip": "AmadeusAI\\Scanner\\IpScanner.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:45:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Highscore.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Highscore.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Highscore.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Highscore.xaml",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Highscore.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-02T16:03:19.806Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UrlServer.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\HttpRestServer\\UrlServer.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\HttpRestServer\\UrlServer.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\HttpRestServer\\UrlServer.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\HttpRestServer\\UrlServer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:27:25.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AmadeusAISettings.settings",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\AmadeusAISettings.settings",
+              "RelativeDocumentMoniker": "AmadeusAI\\AmadeusAISettings.settings",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\AmadeusAISettings.settings",
+              "RelativeToolTip": "AmadeusAI\\AmadeusAISettings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-01-27T12:13:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Stjldbl2.ttf",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Fonts\\Stjldbl2.ttf",
+              "RelativeDocumentMoniker": "AmadeusAI\\Fonts\\Stjldbl2.ttf",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Fonts\\Stjldbl2.ttf",
+              "RelativeToolTip": "AmadeusAI\\Fonts\\Stjldbl2.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-07T18:16:11.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Strjmono.ttf",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Fonts\\Strjmono.ttf",
+              "RelativeDocumentMoniker": "AmadeusAI\\Fonts\\Strjmono.ttf",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Fonts\\Strjmono.ttf",
+              "RelativeToolTip": "AmadeusAI\\Fonts\\Strjmono.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-07T18:16:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Playlist.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Playlist.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Playlist.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Playlist.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Playlist.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:44:01.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Crash.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Crash.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Crash.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Crash.xaml",
+              "RelativeToolTip": "AmadeusAI\\Crash.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T20:46:44.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "tetris.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\tetris.ico",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\tetris.ico",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\tetris.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "AmadeusAI\\gui\\tetris.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-02-02T16:17:44.051Z",
+              "EditorCaption": " - Icon [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "tetris.ico",
+              "DocumentMoniker": "C:\\Users\\Bradley\\Desktop\\Beta\u0027s\\Amadeus-Version 1.012wvpnscanner\\AmadeusAI\\Tetris\\tetris.ico",
+              "RelativeDocumentMoniker": "..\\Users\\Bradley\\Desktop\\Beta\u0027s\\Amadeus-Version 1.012wvpnscanner\\AmadeusAI\\Tetris\\tetris.ico",
+              "ToolTip": "C:\\Users\\Bradley\\Desktop\\Beta\u0027s\\Amadeus-Version 1.012wvpnscanner\\AmadeusAI\\Tetris\\tetris.ico",
+              "RelativeToolTip": "..\\Users\\Bradley\\Desktop\\Beta\u0027s\\Amadeus-Version 1.012wvpnscanner\\AmadeusAI\\Tetris\\tetris.ico",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-02-02T16:20:59.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Block-J.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-J.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrisgui\\Block-J.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-J.png",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrisgui\\Block-J.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-19T00:00:27.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Block-L.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-L.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrisgui\\Block-L.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-L.png",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrisgui\\Block-L.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-19T00:00:30.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Cmd.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Commands\\Cmd.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Commands\\Cmd.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Commands\\Cmd.xaml",
+              "RelativeToolTip": "AmadeusAI\\Commands\\Cmd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-15T14:38:40.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Block-O.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-O.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrisgui\\Block-O.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-O.png",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrisgui\\Block-O.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-19T00:00:31.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ethnocentric rg.otf",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Fonts\\ethnocentric rg.otf",
+              "RelativeDocumentMoniker": "AmadeusAI\\Fonts\\ethnocentric rg.otf",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Fonts\\ethnocentric rg.otf",
+              "RelativeToolTip": "AmadeusAI\\Fonts\\ethnocentric rg.otf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-07T18:16:13.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "SettingsWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\Bradley\\Desktop\\Amadeus-Version 1.014\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Bradley\\Desktop\\Amadeus-Version 1.014\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.cs",
+              "ToolTip": "C:\\Users\\Bradley\\Desktop\\Amadeus-Version 1.014\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.cs",
+              "RelativeToolTip": "..\\Users\\Bradley\\Desktop\\Amadeus-Version 1.014\\AmadeusAI\\obj\\Debug\\SettingsWindow.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T15:58:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "upgrademe.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\HttpRestServer\\upgrademe.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\HttpRestServer\\upgrademe.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\HttpRestServer\\upgrademe.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\HttpRestServer\\upgrademe.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:23:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Perfmon.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Commands\\Perfmon.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Commands\\Perfmon.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Commands\\Perfmon.cs",
+              "RelativeToolTip": "AmadeusAI\\Commands\\Perfmon.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T01:55:38.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChatBox.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\ChatBox.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\ChatBox.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\ChatBox.xaml",
+              "RelativeToolTip": "AmadeusAI\\ChatBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-26T09:35:32.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "nice_pic.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\nice_pic.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\nice_pic.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\nice_pic.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\nice_pic.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T12:06:33.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Tetrissettings.settings",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrissettings.settings",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrissettings.settings",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrissettings.settings",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrissettings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-02-07T20:54:32.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TetrisAma.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\TetrisAma.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\TetrisAma.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\TetrisAma.xaml",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\TetrisAma.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-26T09:33:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Block-I.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-I.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrisgui\\Block-I.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-I.png",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrisgui\\Block-I.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-05T16:40:20.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "icon.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\icon.ico",
+              "RelativeDocumentMoniker": "AmadeusAI\\icon.ico",
+              "ToolTip": "C:\\Amadeus-Version 1.014\\AmadeusAI\\icon.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "..\\Amadeus-Version 1.014\\AmadeusAI\\icon.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-02-01T00:06:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "textbox.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\textbox.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\textbox.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\textbox.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\textbox.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T12:06:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomMessage.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\Styles\\CustomMessage.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\Styles\\CustomMessage.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\Styles\\CustomMessage.xaml",
+              "RelativeToolTip": "AmadeusAI\\gui\\Styles\\CustomMessage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:47:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "messageboximg.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\messageboximg.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\messageboximg.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\messageboximg.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\messageboximg.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T12:06:39.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayListStyle.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\Styles\\PlayListStyle.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\Styles\\PlayListStyle.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\Styles\\PlayListStyle.xaml",
+              "RelativeToolTip": "AmadeusAI\\gui\\Styles\\PlayListStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:46:03.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "connect_unselect.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\connect_unselect.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\connect_unselect.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\connect_unselect.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\connect_unselect.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-26T18:43:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "connect_select.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\connect_select.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\buttons\\connect_select.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\connect_select.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\buttons\\connect_select.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-29T14:08:37.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ChatLog.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\ChatLog.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\ChatLog.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\ChatLog.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\ChatLog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:34:42.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "cancel_unselect.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\cancel_unselect.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\buttons\\cancel_unselect.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\cancel_unselect.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\buttons\\cancel_unselect.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-29T14:08:31.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AmadeusAISettings.Designer.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\AmadeusAISettings.Designer.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\AmadeusAISettings.Designer.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\AmadeusAISettings.Designer.cs",
+              "RelativeToolTip": "AmadeusAI\\AmadeusAISettings.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T12:13:35.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Tetrissettings.Designer.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrissettings.Designer.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrissettings.Designer.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrissettings.Designer.cs",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrissettings.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T20:54:38.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Block.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Block.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Block.cs",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Block.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T22:47:14.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Game.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Game.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Game.cs",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Game.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T20:56:55.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Cmd.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Commands\\Cmd.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Commands\\Cmd.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Commands\\Cmd.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Commands\\Cmd.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:46:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationTrigger.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\ApplicationTrigger.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\ApplicationTrigger.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\ApplicationTrigger.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\ApplicationTrigger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:25:48.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MusicHub.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\MusicHub.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\MusicHub.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\MusicHub.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\MusicHub.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:36:03.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FodyWeavers.xml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\FodyWeavers.xml",
+              "RelativeDocumentMoniker": "AmadeusAI\\FodyWeavers.xml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\FodyWeavers.xml",
+              "RelativeToolTip": "AmadeusAI\\FodyWeavers.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-17T14:33:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "logo39.ico - Icon [32x28, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\Notif\\logo39.ico",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\Notif\\logo39.ico",
+              "ToolTip": "C:\\Amadeus-Version 1.014\\AmadeusAI\\gui\\Notif\\logo39.ico - Icon [32x28, 32 bit, BMP]",
+              "RelativeToolTip": "..\\Amadeus-Version 1.014\\AmadeusAI\\gui\\Notif\\logo39.ico - Icon [32x28, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-05-30T11:06:50.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Telegramsettings.settings",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Telegramsettings.settings",
+              "RelativeDocumentMoniker": "AmadeusAI\\Telegramsettings.settings",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Telegramsettings.settings",
+              "RelativeToolTip": "AmadeusAI\\Telegramsettings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-30T11:25:55.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PathFinder.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:32:05.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "nn0.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nn0.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\CRT\\nn0.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nn0.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\CRT\\nn0.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-25T20:32:42.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Telegramsettings.Designer.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Telegramsettings.Designer.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Telegramsettings.Designer.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Telegramsettings.Designer.cs",
+              "RelativeToolTip": "AmadeusAI\\Telegramsettings.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:25:59.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Message.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Message.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Message.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Message.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Message.xaml.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAQwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:26:16.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PathFinder.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml",
+              "RelativeToolTip": "AmadeusAI\\Games\\PathFinderGame\\PathFinder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:31:23.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "battery80.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery80.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\battery80.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery80.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\battery80.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T16:03:15.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Dir.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Dir.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Dir.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Dir.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Dir.xaml.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAAAsBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:20:18.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "arrow.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\arrow.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\CRT\\arrow.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\arrow.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\CRT\\arrow.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T15:11:59.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "nixie_base.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nixie_base.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\CRT\\nixie_base.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nixie_base.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\CRT\\nixie_base.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-25T20:32:49.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ScreenManipulation.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Commands\\ScreenManipulation.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Commands\\ScreenManipulation.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Commands\\ScreenManipulation.cs",
+              "RelativeToolTip": "AmadeusAI\\Commands\\ScreenManipulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T00:09:45.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "first-ever-website-example.jpeg",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\Backgrounds\\first-ever-website-example.jpeg",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\Backgrounds\\first-ever-website-example.jpeg",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\Backgrounds\\first-ever-website-example.jpeg",
+              "RelativeToolTip": "AmadeusAI\\gui\\Backgrounds\\first-ever-website-example.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T21:09:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "playlistbckg1.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\Backgrounds\\playlistbckg1.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\Backgrounds\\playlistbckg1.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\Backgrounds\\playlistbckg1.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\Backgrounds\\playlistbckg1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T20:48:54.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\app.manifest",
+              "RelativeDocumentMoniker": "AmadeusAI\\app.manifest",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\app.manifest",
+              "RelativeToolTip": "AmadeusAI\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-02-17T14:33:05.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "connect_unselect.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\connect_unselect.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\buttons\\connect_unselect.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\connect_unselect.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\buttons\\connect_unselect.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-29T14:08:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "xp2.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\xp2.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\buttons\\xp2.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\buttons\\xp2.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\buttons\\xp2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T14:34:26.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Gamemenu.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Gamemenu.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Gamemenu.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Gamemenu.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Gamemenu.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:36:39.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Ok.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\Ok.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\Ok.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\Ok.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\Ok.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T14:34:03.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "topbar.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\topbar.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\CRT\\topbar.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\topbar.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\CRT\\topbar.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-08T17:37:25.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "battery20.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery20.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\battery20.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery20.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\battery20.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T16:03:11.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "xp2.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\xp2.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\xp2.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\xp2.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\xp2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T14:34:06.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "logo.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\logo.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\logo.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\logo.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\logo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T14:34:08.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FontSelector.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\FontSelector.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\FontSelector.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\FontSelector.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\FontSelector.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAFAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T11:52:21.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "battery10.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery10.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\battery10.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery10.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\battery10.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T16:03:12.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "battery40.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery40.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\battery40.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\battery40.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\battery40.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T16:03:14.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "batteryno.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\batteryno.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\batteryno.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\batteryno.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\batteryno.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T16:03:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ChatBox.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\ChatBox.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\ChatBox.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\ChatBox.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\ChatBox.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:34:37.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "cancel_unselect.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\cancel_unselect.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\cancel_unselect.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\cancel_unselect.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\cancel_unselect.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-25T20:33:45.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "nn4.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nn4.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\CRT\\nn4.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nn4.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\CRT\\nn4.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-25T20:32:46.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Gamemenu.xaml",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Gamemenu.xaml",
+              "RelativeDocumentMoniker": "AmadeusAI\\Gamemenu.xaml",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Gamemenu.xaml",
+              "RelativeToolTip": "AmadeusAI\\Gamemenu.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-25T20:36:53.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "cancel_select.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\cancel_select.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\small btns\\cancel_select.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\small btns\\cancel_select.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\small btns\\cancel_select.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T16:03:16.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "nnnone.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nnnone.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\CRT\\nnnone.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nnnone.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\CRT\\nnnone.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T14:34:13.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Block-S.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-S.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrisgui\\Block-S.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\Block-S.png",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrisgui\\Block-S.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-19T00:00:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "TetrisAma.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\TetrisAma.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\TetrisAma.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\TetrisAma.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\TetrisAma.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:28:08.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "nn.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nn.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\gui\\CRT\\nn.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\gui\\CRT\\nn.png",
+              "RelativeToolTip": "AmadeusAI\\gui\\CRT\\nn.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-25T20:25:41.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Highscore.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Highscore.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Highscore.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Highscore.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Highscore.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T20:34:13.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "IdleBehaviour.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\IdleBehaviour.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\IdleBehaviour.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\IdleBehaviour.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\IdleBehaviour.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T20:55:49.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "InstanceListener.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\InstanceListener.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\InstanceListener.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\InstanceListener.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\InstanceListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T20:28:49.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\App.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\App.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T17:33:23.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ErrorLogger.xaml.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\ErrorLogger.xaml.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\ErrorLogger.xaml.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\ErrorLogger.xaml.cs",
+              "RelativeToolTip": "AmadeusAI\\ErrorLogger.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T19:52:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "1-grid.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\1-grid.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrisgui\\1-grid.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\1-grid.png",
+              "RelativeToolTip": "AmadeusAI\\Tetris\\Tetrisgui\\1-grid.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-05T16:40:16.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "1-n.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1-n.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Amadeus\\1-n.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1-n.png",
+              "RelativeToolTip": "AmadeusAI\\Amadeus\\1-n.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T14:04:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "1.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Amadeus\\1.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1.png",
+              "RelativeToolTip": "AmadeusAI\\Amadeus\\1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T14:04:26.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "1a-n.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1a-n.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Amadeus\\1a-n.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1a-n.png",
+              "RelativeToolTip": "AmadeusAI\\Amadeus\\1a-n.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T14:04:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "1a.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1a.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Amadeus\\1a.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1a.png",
+              "RelativeToolTip": "AmadeusAI\\Amadeus\\1a.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T14:04:35.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "a-n.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\a-n.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Amadeus\\a-n.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\a-n.png",
+              "RelativeToolTip": "AmadeusAI\\Amadeus\\a-n.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T14:04:37.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "a.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\a.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Amadeus\\a.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\a.png",
+              "RelativeToolTip": "AmadeusAI\\Amadeus\\a.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-03T14:04:39.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "tetris.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Tetris\\Tetrisgui\\tetris.ico",
+              "RelativeDocumentMoniker": "AmadeusAI\\Tetris\\Tetrisgui\\tetris.ico",
+              "ToolTip": "C:\\Amadeus-Version 1.014\\AmadeusAI\\Tetris\\Tetrisgui\\tetris.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "..\\Amadeus-Version 1.014\\AmadeusAI\\Tetris\\Tetrisgui\\tetris.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-02-03T12:23:24.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "1-nnobckg.png",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1-nnobckg.png",
+              "RelativeDocumentMoniker": "AmadeusAI\\Amadeus\\1-nnobckg.png",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Amadeus\\1-nnobckg.png",
+              "RelativeToolTip": "AmadeusAI\\Amadeus\\1-nnobckg.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-01-29T22:15:41.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IBehaviour.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\IBehaviour.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\IBehaviour.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\IBehaviour.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\IBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:14:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\App.config",
+              "RelativeDocumentMoniker": "AmadeusAI\\App.config",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\App.config",
+              "RelativeToolTip": "AmadeusAI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-29T21:46:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\Login.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\Login.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\Login.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\Login.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:14:45.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ApplicationBehaviour.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\ApplicationBehaviour.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\ApplicationBehaviour.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\ApplicationBehaviour.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\ApplicationBehaviour.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvzsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:14:55.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "WebBrowserBehaviour.cs",
+              "DocumentMoniker": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\WebBrowserBehaviour.cs",
+              "RelativeDocumentMoniker": "AmadeusAI\\Behaviours\\WebBrowserBehaviour.cs",
+              "ToolTip": "C:\\Amadeus-working\\AmadeusAI\\Behaviours\\WebBrowserBehaviour.cs",
+              "RelativeToolTip": "AmadeusAI\\Behaviours\\WebBrowserBehaviour.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAASwLUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T18:06:46.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+add an ip checker and make Kurisu warn about using a different ip etc
+make some more advanced form implementations
+
+screen so can open and trnasition between 24 png's

@@ -1,0 +1,82 @@
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.AssemblyReference.cache
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.g.cs
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.g.cs
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.g.cs
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\App.g.cs
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.cache
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.lref
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.baml
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.baml
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.baml
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.g.resources
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.Properties.Resources.resources
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.GenerateResource.cache
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.exe
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe.config
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Documents\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CopyComplete
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe.config
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.AssemblyReference.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\App.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.lref
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.baml
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.baml
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.baml
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.g.resources
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.Properties.Resources.resources
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.GenerateResource.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CopyComplete
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.exe
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe.config
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.AssemblyReference.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\App.g.cs
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.lref
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.baml
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.baml
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.baml
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.g.resources
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.Properties.Resources.resources
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.GenerateResource.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CopyComplete
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.exe
+C:\Users\Bradley\Desktop\Programs and repositories\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe.config
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.exe
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\bin\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.AssemblyReference.cache
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.g.cs
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.g.cs
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.g.cs
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\App.g.cs
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.cache
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.lref
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\MainWindow.baml
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\SettingsWindow.baml
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\UnconspicousWindow.baml
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.g.resources
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.Properties.Resources.resources
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.GenerateResource.cache
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.csproj.CopyComplete
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.exe
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI.pdb
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.cache
+C:\Users\Bradley\Desktop\AmadeusAI-master\AmadeusAI\obj\Debug\AmadeusAI_MarkupCompile.lref

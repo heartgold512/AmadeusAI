@@ -1,0 +1,3 @@
+Activated files for music will go here.
+when a button is pressed soundplayer plays sounds
+we will add an icon to change playlist within taskbar

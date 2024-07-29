@@ -1,0 +1,56 @@
+﻿<Window x:Class="AmadeusAI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AmadeusAI"
+        mc:Ignorable="d"
+        Title="Amadeus" Height="343.075" Width="343.075" ShowInTaskbar="True" Topmost="True" ResizeMode="NoResize" AllowsTransparency="True" WindowStyle="None" Background="#005CE006"
+        Loaded="MainWindow_OnLoaded" Closing="MainWindow_OnClosing" UseLayoutRounding="False">
+    <Window.Resources>
+        <local:Conversion x:Key="Conversion"/>
+    </Window.Resources>
+
+    <Grid>
+        <!-- <Image x:Name="imageControl"/> -->
+        <!-- this is new and neds checking -->
+        <Image x:Name="imageControl">
+            <!--the Amadeus Logo-->
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="backgroundPicture" HorizontalAlignment="Center" VerticalAlignment="Top" Source="/AmadeusAI;component/gui/logo.png" Opacity="0" Panel.ZIndex="-1"/>
+        <Image x:Name="facePicture" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="105" Margin="114,90,0,0" Source="/AmadeusAI;component/Amadeus/a.png" Opacity="0" Panel.ZIndex="-1" RenderTransformOrigin="0.5,0.5">
+            <Image.OpacityMask>
+                <RadialGradientBrush>
+                    <GradientStop Color="Black" Offset="1" />
+                    <GradientStop Color="Transparent" Offset="1" />
+                </RadialGradientBrush>
+            </Image.OpacityMask>
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform CenterY="-45" CenterX="-2" ScaleY="1.3" ScaleX="1.3"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Grid>
+            <Image x:Name="textPicture" HorizontalAlignment="Center"  Width="343" Margin="0,236,0,0" Source="/AmadeusAI;component/gui/textbox.png" Opacity="0" Panel.ZIndex="1" RenderTransformOrigin="0.499,0.512" Stretch="Fill" />
+            <TextBlock x:Name="textBox" Text="" Foreground="OrangeRed"
+FontFamily="{Binding Source={x:Static local:AmadeusAISettings.Default}, Path=FontFamily}"
+FontSize="16" Opacity="1" HorizontalAlignment="Center" VerticalAlignment="Top"
+TextWrapping="Wrap" Panel.ZIndex="2" Height="40"
+RenderTransformOrigin="0.028,0.116" Width="344" Margin="0,303,0,0"/>
+            <TextBlock x:Name="OSMessage" Foreground="White" Opacity="0" Margin="91,290,0,0" RenderTransformOrigin="0.441,0.579"  Text= " "   FontSize="12" />
+
+        </Grid>
+        <!-- is good the rest is up to you, i tried i really tried the text always goes funny so just average settings for now i guess -->
+        <!-- for some reason i always have problems coming to grips with xaml and overlapping things, im not very fond of xaml or markup languages in general-->
+
+    </Grid>
+</Window>
+
+    

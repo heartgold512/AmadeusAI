@@ -1,0 +1,44 @@
+﻿<Window x:Class="AmadeusAI.MusicHub"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MusicHub"  Height="300" Width="500"
+        Background="Black" BorderBrush="orange"
+        ResizeMode="NoResize" FontFamily="Impact">
+
+    <Grid RenderTransformOrigin="0.571,0.577">
+        <Button x:Name="Disable_Notification" Content="Disable Notifications" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="110" IsDefault="True" Click="DisableNotification_Click" Height="22" Background = "orange" Panel.ZIndex="3"/>
+        <Image x:Name="messageboximg" Source="\AmadeusAI;component\gui\messageboximg.png" MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+        <!--Plan is to make the Logo bounce when clicked into and out of the screen with a form of white flash-->
+        <Grid>
+            <Button x:Name="Play" Content="Play" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="13,12,0,0" IsDefault="True" Click="Play_Click" Height="24" Background = "orange"/>
+            <TextBlock x:Name="MusicTime" HorizontalAlignment="Left" VerticalAlignment="Top"
+     Foreground="navajowhite" FontSize="13" Width="68" Margin="55,114,0,0" TextWrapping="Wrap" Height="34"/>
+            <TextBlock x:Name="EndTime" HorizontalAlignment="Left" VerticalAlignment="Top"
+Foreground="navajowhite" FontSize="13" Width="34" Margin="16,114,0,0" TextWrapping="NoWrap" Height="28"/>
+
+        </Grid>
+        <Button x:Name="Pause" Content="Pause" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="13,40,0,0" IsDefault="True" Click="Pause_Click" Height="24" Background = "orange"/>
+        <Label x:Name="Status_Lbl" FontFamily="Impact"  HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="167" Margin="0,262,0,0" Height="22" Background = "orange" Panel.ZIndex="2"/>
+        <Button x:Name="Open_Playlist" Content="Open Playlist" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="358,10,0,0" IsDefault="True" Click="OpenPlaylist_Click" Height="25" RenderTransformOrigin="0.5,0.5" Background = "orange"/>
+
+        <Button x:Name="Open_Music" Content="Select Any Sound File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="358,47,0,0" IsDefault="True" Click="MusicSelector_Click" Height="25" RenderTransformOrigin="0.5,0.5" Background = "orange">
+
+            <!--More buttons just remember > and not /> if adding last-->
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.806"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock x:Name="MusicName" HorizontalAlignment="Left" VerticalAlignment="Top"
+                   Foreground="Gold" FontSize="13" Width="465" Margin="10,220,0,0" TextWrapping="Wrap" Height="28"/>
+
+        <!-- need to wrap text since goes offscreen if the song is insanely long.. yes im looking at you with your absurd song lengths-->
+        <Border BorderBrush="orange" BorderThickness="2.5" Panel.ZIndex="20"/>
+    </Grid>
+</Window>
+
+

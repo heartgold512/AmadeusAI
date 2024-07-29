@@ -1,0 +1,30 @@
+<Window x:Class="AmadeusAI.Popupcall"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Incoming Call" Height="720" Width="1080" Background="Black">
+    <Grid Margin="0,0,5,4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="38*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="AmadeusSymb" Source="\AmadeusAI;component\gui\messageboximg.png" Margin="0,0,-5,-4" Grid.RowSpan="2"/>
+        <TextBlock x:Name="Info" Text="You have an incoming call!" HorizontalAlignment="Center" FontSize="18" Foreground="Orange" Height="270" VerticalAlignment="Top" Width="1056" FontStyle="Italic"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,147,0,0" Width="941" Height="170" Grid.Row="1">
+            <Button x:Name="YesButton" Width="461" Click="YesButton_Click" Background="Transparent" Height="112">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderThickness="0">
+                            <Image x:Name="ButtonImage" Source="/gui/small btns/connect_unselect.png" Height="110" Panel.ZIndex="5" Margin="0,0,4,0"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="ButtonImage" Property="Source" Value="/gui/small btns/connect_select.png"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button x:Name="NoButton" Content="Hang Up" Width="291" Margin="40" Click="NoButton_Click" Background="Orange" Height="86" />
+        </StackPanel>
+    </Grid>
+</Window>
