@@ -5,3 +5,4 @@ I am working on as a hobby Ai and voice cloning, it would be my desire to create
 Including an AI voice and model respective to said emotions and so forth, clips of the characters voice can be extracted from the anime, then from those we can use XTTS, Rvc or eleven labs to recreate the missing subtitles for the Vn novel in English using AI, from there we have a diverse set of audios in a Json file.
 Thats the basics of it anyways.
 yt channel: https://www.youtube.com/channel/UCAdbYtdRQ7wtx0Ztk2IQz9A
+![Alt text] (https://github.com/heartgold512/AmadeusAI/blob/master/icon.ico)
