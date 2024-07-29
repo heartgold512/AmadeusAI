@@ -8,3 +8,4 @@ yt channel: https://www.youtube.com/channel/UCAdbYtdRQ7wtx0Ztk2IQz9A
 
 
 ![Project Screenshot](https://github.com/heartgold512/AmadeusAI/blob/master/icon.ico)
+![Project Screenshot](https://github.com/heartgold512/AmadeusAI/blob/master/logo.ico)
